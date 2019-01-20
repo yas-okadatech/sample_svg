@@ -3,7 +3,6 @@ body {
 }
 
 .image > rect {
-  /* fill: white; */
   fill: green;
 }
 
