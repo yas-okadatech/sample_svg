@@ -10,3 +10,7 @@ body {
 .image > circle {
   fill: red;
 }
+
+.triangle > path:nth-child(2) {
+  fill: white;
+}
